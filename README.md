@@ -14,6 +14,7 @@ Prcocessing:
 #Deep learning
   Several main.py were provided using different combinations of input.
   For example, if use input of CT/PET/GTV(autoseg)/clinical data/radiomics together to train the model, then run:
+ 
+  python main_trainusingAutoSeg_withclcradio.py --input_modality CT PT gtv --optimizer sgd --oversample True --model resnet18 --batch_size 12 --input_type tumor --esn 101 --fold 1
   
   
-python main_trainusingAutoSeg_withclc.py --input_modality CT PT_nobrain gtv --optimizer sgd --oversample True --model resnet18 --batch_size 12 --input_type tumor --esn 101 --fold 1

@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 15 15:50:49 2022
 
-This is a nnUnet loss based net for RFS prediction of OPC cancer
+This is a DeepSurv loss based net for RFS prediction of OPC cancer, input can be only image (CT/PET) and/or GTV(autoseg), clinical data and hpv
 
 @author: MaB 
 """

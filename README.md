@@ -11,7 +11,12 @@ Prcocessing:
 1. Data_prepare/bounding_box.py
 2. Data_prepare/resample.py
 
-#Deep learning:
+#Radiomics workflow
+![image](https://user-images.githubusercontent.com/86932526/197784491-d54f134a-bf2e-4f92-9fda-98f9e8daf2d3.png)
+
+#Deep learning workflow
+![image](https://user-images.githubusercontent.com/86932526/197784531-e83c68d2-72f6-4089-8b82-5e358474cd2c.png)
+
 Several main.py were provided using different combinations of input.
 For example, if use input of CT/PET/GTV(autoseg)/clinical data/radiomics together to train the model, then run:
  

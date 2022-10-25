@@ -12,9 +12,11 @@ Prcocessing:
 2. Data_prepare/resample.py
 
 #Radiomics workflow
+
 ![image](https://user-images.githubusercontent.com/86932526/197784491-d54f134a-bf2e-4f92-9fda-98f9e8daf2d3.png)
 
 #Deep learning workflow
+
 ![image](https://user-images.githubusercontent.com/86932526/197784531-e83c68d2-72f6-4089-8b82-5e358474cd2c.png)
 
 Several main.py were provided using different combinations of input.
